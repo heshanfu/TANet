@@ -20,6 +20,7 @@ For more information please refer the [Paper](https://arxiv.org/pdf/1912.05163.p
 
 ## Citation
 If you find our work useful in your research, please consider citing:
+
          @article{liu2019tanet,
          title={TANet: Robust 3D Object Detection from Point Clouds with Triple Attention},
          author={Zhe Liu and Xin Zhao and Tengteng Huang and Ruolan Hu and Yu Zhou and Xiang Bai},
