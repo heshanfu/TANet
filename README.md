@@ -16,6 +16,11 @@ The detail architecture of Triple attention:
 The detail architecture of Coarse-To-Fine Regression: 
 ![image](imgs/Coarse-To-Fine.png)
 
+# Reuslts
+
+The visualization of learned feature map and predicted confidence score for PointPillars and Ours:
+![image](imgs/Result_Vis.png)
+
 
 ## Citation
 If you find our work useful in your research, please consider citing:
