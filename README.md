@@ -7,6 +7,8 @@ In  this  paper,  we  focus  on  exploring  the  robustness  of  the3D object de
 
 The network architecture of TANet: 
 ![image](imgs/TANet.png)
+The full pipeline of TANet. First, we equally divide the point clouds into a voxel grid consisting of a set of voxels.
+Then, the stacked triple attention separately process each voxel to obtain a more discriminative representation. Subsequently, a compact feature representation for each voxel is extracted by aggregating the points inside it in a max-pooling manner. And we arrange the voxel feature according to its original spatial position in the grid, and thus lead to a feature representation for the voxel grid in the shape of C' × H × W . Finally, the coarse-to-fine regression is employed to generate the final 3D bounding boxes.
 
 The detail architecture of Triple attention: 
 ![image](imgs/TA_Module.png)
