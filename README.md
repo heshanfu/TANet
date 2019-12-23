@@ -16,4 +16,44 @@ The detail architecture of Coarse-To-Fine Regression:
 ![image](imgs/Coarse-To-Fine.png)
 
 
-For more information please consult the [Paper](https://arxiv.org/pdf/1912.05163.pdf)
+For more information please refer the [Paper](https://arxiv.org/pdf/1912.05163.pdf)
+
+## Citation
+If you find our work useful in your research, please consider citing:
+         @article{liu2019tanet,
+         title={TANet: Robust 3D Object Detection from Point Clouds with Triple Attention},
+         author={Zhe Liu and Xin Zhao and Tengteng Huang and Ruolan Hu and Yu Zhou and Xiang Bai},
+         year={2020},
+         journal={AAAI},
+         url={https://arxiv.org/pdf/1912.05163.pdf},
+         eprint={1912.05163},
+         archivePrefix={arXiv},
+         primaryClass={cs.CV}
+         }
+         
+         
+         @article{lang2018pointpillars,
+         title={PointPillars: Fast Encoders for Object Detection from
+         Point Clouds},
+         author={Lang, Alex H and Vora, Sourabh and Caesar,
+         Holger and Zhou, Lubing and Yang, Jiong and Beijbom,
+         Oscar},
+         journal={CVPR},
+         year={2019}
+         }
+         
+         @article{yan2018second,
+           title={Second: Sparsely embedded convolutional detection},
+           author={Yan, Yan and Mao, Yuxing and Li, Bo},
+           journal={Sensors},
+           volume={18},
+           number={10},
+           pages={3337},
+           year={2018},
+           publisher={Multidisciplinary Digital Publishing Institute}
+         }
+         
+         
+
+        
+ 
